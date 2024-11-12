@@ -1,0 +1,27 @@
+@media screen  and (max-width:420px) {
+  .header{
+    display:none;
+  }
+  ul{
+  padding:5px;
+  display:flex;
+  list-style-type:none;
+  border-top:2px solid #7f8c8d68;
+  border-bottom:2px solid  #7f8c8d68;
+}
+ul li{
+  margin-left:15px;
+}
+ul li a{
+  font-size:20px;
+  text-decoration:none;
+}
+.section{
+  margin:0;
+  border-right:2px solid #7f8c8d68;
+  width:350px;
+  display:flex;
+  
+  
+}
+}
